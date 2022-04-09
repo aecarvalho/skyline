@@ -16,7 +16,7 @@
 ---
 
 ### Contact
-You can contact the core developers of Skyline at our **[Discord](https://discord.gg/XnbXNQM)**. If you have any questions, feel free to ask. It's also a good place to just keep up with the emulator, as most talk regarding development goes on over there.
+You can contact the core developers of Skyline at our **[Discord](https://discord.gg/XnbXNQM)**. If you have any questions, feel free to ask. It's also a good place to just keep up with the emulator, as most of the discussions regarding development happen there.
 
 ---
 
